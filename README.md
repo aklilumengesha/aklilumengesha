@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm **Aklilu Mengesha**, a self-driven full-stack developer based in **Ethiopia** 🇪🇹. I started coding out of curiosity and turned it into a craft — building real products that solve real problems.
+I'm **Aklilu Mengesha**, a self-driven full-stack developer based in **Ethiopia** 🇪🇹 with a degree in **Software Engineering**. I started coding out of curiosity and turned it into a craft — building real products that solve real problems.
 
 ### 💡 What I Do
 
