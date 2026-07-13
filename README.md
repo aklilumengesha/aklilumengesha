@@ -2,99 +2,149 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Solutions;Next.js+%7C+Node.js+%7C+Laravel;Open+to+Full-time+%26+Freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Solutions;React+%7C+Node.js+%7C+Laravel;Open+to+Full-time+%26+Freelance)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm Aklilu Mengesha, a self-driven full-stack developer based in **Ethiopia**. I started coding out of curiosity and turned it into a craft — building real products that solve real problems.
+I'm **Aklilu Mengesha**, a self-driven full-stack developer based in **Ethiopia** 🇪🇹. I started coding out of curiosity and turned it into a craft — building real products that solve real problems.
 
-I work with modern technologies like **Next.js**, **Node.js**, and **Laravel** to deliver full-stack solutions — from clean UIs to scalable backends. I take pride in writing code that is readable, maintainable, and built to last.
+### 💡 What I Do
 
-- 🔭 Currently working on **AI-powered e-commerce & healthcare platforms**
-- 🌱 Learning **AI integration** and **microservices architecture**
-- 💼 Open to **full-time & freelance opportunities**
-- 📍 Based in **Ethiopia 🇪🇹**
-- 📫 Reach me: **aklilumengesha57@gmail.com**
-- 🌐 Portfolio: **[aklilu-mengesha-portfolio-vv1k.vercel.app](https://aklilu-mengesha-portfolio-vv1k.vercel.app)**
+I specialize in building **end-to-end web applications** that are fast, scalable, and user-friendly. From crafting pixel-perfect frontends to architecting robust backend systems, I handle the entire development lifecycle.
 
----
+**Frontend Excellence:**  
+I build modern, responsive interfaces using **React**, **Next.js**, and **TypeScript**, styled with **Tailwind CSS**. I focus on performance optimization, accessibility, and creating smooth user experiences with thoughtful animations and interactions.
 
-## 📊 Career Stats
+**Backend Mastery:**  
+On the server side, I work with **Node.js** (NestJS, Express, Fastify), **Laravel**, and **Django** to create scalable REST APIs, implement secure authentication systems, and design efficient database architectures using **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis** for caching.
+
+**Full-Stack Integration:**  
+I bridge frontend and backend seamlessly, implementing real-time features with **Socket.io**, integrating payment gateways (**Stripe**), cloud services (**Supabase**, **Firebase**), and AI capabilities (**Google Gemini AI**). I use **Prisma** ORM for type-safe database operations and **Docker** for containerization.
+
+**Development Practices:**  
+I write clean, maintainable code following **SOLID principles** and **clean architecture**. I implement comprehensive testing with **Jest**, document APIs with **Swagger**, and manage projects using **Git** and **Postman** for API development.
+
+### 🎯 Current Focus
+
+- 🔭 Building **AI-powered applications** and **enterprise management systems**
+- 🌱 Mastering **NestJS**, **Microservices architecture**, and **Cloud deployment**
+- 🤖 Exploring **LLM integration** and **intelligent automation**
+- 🏗️ Implementing **scalable system designs** for high-traffic applications
+
+### 💼 Availability
+
+- ✅ **Open for full-time positions** - Remote or on-site opportunities
+- ✅ **Available for freelance projects** - Custom web development
+- ✅ **Consultation & code reviews** - Architecture and optimization
+- ✅ **Contract work** - Short-term and long-term engagements
+
+### 📫 Let's Connect
+
+- 🌐 **Portfolio:** [aklilu-mengesha-portfolio.vercel.app](https://aklilu-mengesha-portfolio-vv1k.vercel.app)
+- 📧 **Email:** aklilumengesha57@gmail.com
+- 💼 **LinkedIn:** [Aklilu Mengesha](https://www.linkedin.com/in/aklilu-mengesha-160773311/)
+- 📍 **Location:** Ethiopia 🇪🇹 (Open to remote work worldwide)
+
+### 📊 At a Glance
 
 <div align="center">
 
-| 📦 Projects | 💻 Technologies | 📅 Years Experience | 😊 Happy Clients |
-|------------|----------------|-------------------|------------------|
-| **11+** | **13+** | **2+** | **3** |
+| 🚀 Projects | 💻 Technologies | 🎯 Experience | 😊 Happy Clients |
+|:-----------:|:---------------:|:-------------:|:----------------:|
+| **11+** Built | **13+** Mastered | **2+** Years | **3** Worldwide |
 
 </div>
+
+### 🛠️ Tech Stack Overview
+
+```javascript
+const aklilu = {
+  code: ["JavaScript", "TypeScript", "PHP", "Python"],
+  frontend: {
+    frameworks: ["React", "Next.js"],
+    styling: ["Tailwind CSS", "CSS3", "HTML5"],
+    stateManagement: ["Redux", "Context API", "Zustand"]
+  },
+  backend: {
+    nodeJS: ["NestJS", "Express", "Fastify", "Socket.io"],
+    php: ["Laravel"],
+    python: ["Django"]
+  },
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  orm: ["Prisma", "TypeORM", "Eloquent"],
+  devOps: ["Docker", "Git", "CI/CD", "Vercel", "Render"],
+  aiServices: ["Google Gemini", "OpenAI", "Hugging Face"],
+  tools: ["Postman", "Swagger", "Jest", "Stripe"],
+  cloud: ["Supabase", "Firebase", "AWS S3"],
+  architecture: ["Clean Architecture", "Microservices", "REST APIs", "MVC"],
+  currentlyLearning: ["GraphQL", "Kubernetes", "AWS", "System Design"]
+};
+```
 
 ---
 
 ## 🏆 Featured Projects
 
-### 1️⃣ [DescriptAI - AI Product Description Generator](https://github.com/aklilumengesha/descriptai) ⭐ **AI-Powered**
+### 1️⃣ [DescriptAI](https://github.com/aklilumengesha/descriptai) 🤖 **AI-Powered**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 
-An AI-powered product description generator for e-commerce sellers. Upload product images and let Google Gemini AI generate compelling, SEO-optimized descriptions.
+An AI-powered product description generator for e-commerce sellers. Upload product images and let **Google Gemini AI** generate compelling, SEO-optimized descriptions.
 
 **✨ Key Features:**
-- 🤖 Google Gemini AI integration for smart descriptions
-- 💳 Stripe subscription management
+- 🤖 AI-powered description generation using Google Gemini
+- 📸 Image upload with cloud storage
+- 💳 Subscription management with Stripe
 - 🔐 Secure authentication via Supabase
-- ☁️ Cloud storage for product images
-- 📊 Usage analytics dashboard
+- 📊 Usage tracking and analytics
 
-[Live Demo →](https://descriptai-beta.vercel.app/) | [View Repository →](https://github.com/aklilumengesha/descriptai)
+[Live Demo](https://descriptai-beta.vercel.app/) | [View Repository](https://github.com/aklilumengesha/descriptai)
 
 ---
 
-### 2️⃣ [BatterySwap - EV Battery Exchange Platform](https://github.com/aklilumengesha/Battery-Swap) ⚡ **Real-World Impact**
+### 2️⃣ [BatterySwap](https://github.com/aklilumengesha/Battery-Swap) ⚡ **Production-Scale**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-An innovative EV battery swap platform connecting drivers with **500+ swap stations** across Addis Ababa. Sub-2-minute battery exchanges for rideshare drivers and EV owners.
+An innovative EV battery swap platform connecting drivers with **500+ swap stations** across Addis Ababa.
 
 **✨ Key Features:**
-- 🗺️ Real-time station availability mapping
-- ⚡ Sub-2-minute battery exchange tracking
+- ⚡ Sub-2-minute battery exchanges
+- 📍 Real-time station availability tracking
 - 💼 Producer dashboards for station owners
 - 📊 Live platform statistics
-- 📱 Mobile-first responsive design
+- 💳 Subscription plans for drivers
+- 🗺️ Interactive station map
 
-**📈 Impact:**
-- Serves EV rideshare drivers across Addis Ababa
-- Eliminates charging delays with instant swaps
-- Scales to support growing EV adoption
+**🎯 Built for rideshare drivers and EV owners who need instant power without charging delays.**
 
-[Live Demo →](https://battery-swap-ten.vercel.app/) | [View Repository →](https://github.com/aklilumengesha/Battery-Swap)
+[Live Demo](https://battery-swap-ten.vercel.app/) | [View Repository](https://github.com/aklilumengesha/Battery-Swap)
 
 ---
 
-### 3️⃣ [Meditrack - Healthcare Management Platform](https://github.com/aklilumengesha/meditrack) 🏥 **Full-Stack**
+### 3️⃣ [Meditrack Healthcare Platform](https://github.com/aklilumengesha/meditrack) 🏥 **Full-Stack**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-A comprehensive healthcare management system with three role-based portals for patients, doctors, and admins.
+A comprehensive healthcare management system with **three role-based portals** for patients, doctors, and admins.
 
 **✨ Key Features:**
-- 👥 Three role-based portals (Patient, Doctor, Admin)
-- 📅 Appointment booking system
-- 📋 Medical records management
-- 📊 Admin statistics dashboard with CSV exports
-- 💊 Patient vitals tracking
-- 🔐 Secure authentication & authorization
+- 👥 Role-based access (Patients, Doctors, Admins)
+- 📅 Appointment booking and management
+- 📋 Medical records and patient history
+- 📊 Health vitals tracking
+- 📈 Admin statistics dashboard
+- 📥 CSV export functionality
 
 **🏗️ Architecture:**
-- Clean Architecture with NestJS
-- PostgreSQL with Prisma ORM
-- RESTful API design
-- Type-safe backend with TypeScript
+- Clean backend with NestJS
+- Type-safe API with TypeORM
+- Responsive UI with Next.js
+- PostgreSQL for data persistence
 
-[Live Demo →](https://meditrack-rho-one.vercel.app/) | [View Repository →](https://github.com/aklilumengesha/meditrack)
+[Live Demo](https://meditrack-rho-one.vercel.app/) | [View Repository](https://github.com/aklilumengesha/meditrack)
 
 ---
 
@@ -102,196 +152,130 @@ A comprehensive healthcare management system with three role-based portals for p
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-A comprehensive ERP system for tracking and managing company assets across their full lifecycle.
+A comprehensive Enterprise Resource Planning system for tracking and managing company assets across their full lifecycle.
 
 **✨ Key Features:**
-- 📦 Asset registration & lifecycle tracking
-- 🏢 Department allocation management
-- 📊 Status tracking & reporting dashboards
-- 🔄 Maintenance scheduling
-- 📈 Full visibility over resources
+- 🏢 Asset registration and categorization
+- 👥 Department allocation and tracking
+- 📊 Status monitoring (Active, Maintenance, Disposed)
+- 📈 Reporting dashboards
+- 🔍 Advanced search and filtering
+- 📥 Export capabilities
 
-[Live Demo →](https://asset-management-erp-wheat.vercel.app/) | [View Repository →](https://github.com/aklilumengesha/asset-management-ERP)
+**💼 Built for organizations that need full visibility over their resources.**
+
+[Live Demo](https://asset-management-erp-wheat.vercel.app/) | [View Repository](https://github.com/aklilumengesha/asset-management-ERP)
 
 ---
 
-### 5️⃣ [Job Board API](https://github.com/aklilumengesha/job-board-api) 🚀 **Production-Ready**
-
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-A comprehensive RESTful API for a job board platform with advanced features.
-
-**✨ Key Features:**
-- 🔐 JWT authentication with refresh tokens
-- 👥 Role-based authorization (Job Seeker, Employer, Admin)
-- 📝 Complete job posting & application workflow
-- 🔍 Advanced search with 8+ filters
-- 📧 Email notifications with BullMQ
-- 💾 Redis caching
-- ✅ **37/37 E2E tests passing**
-
-[View Repository →](https://github.com/aklilumengesha/job-board-api)
-
----
-
-### 6️⃣ [URL Shortener API](https://github.com/aklilumengesha/URL-Shortener-API) ⚡ **High-Performance**
+### 5️⃣ [URL Shortener API](https://github.com/aklilumengesha/URL-Shortener-API) 🚀 **High-Performance**
 
 <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-A high-performance URL shortener REST API with Redis caching for lightning-fast redirects.
+A high-performance URL shortener REST API built with **Fastify** and **Redis caching** for lightning-fast redirects.
 
 **✨ Key Features:**
-- ⚡ Lightning-fast redirects with Redis
-- 📊 Click analytics & browser tracking
+- ⚡ Lightning-fast redirects with Redis caching
+- 🔗 Custom alias support
+- 📊 Click analytics and tracking
+- 🌐 Browser and device tracking
 - 📈 Date trend charts
-- 🔒 Rate limiting
-- 🎯 Custom aliases support
+- 🔒 Rate limiting for security
 
-[Live Demo →](https://url-shortener-api-u6xq.onrender.com/) | [View Repository →](https://github.com/aklilumengesha/URL-Shortener-API)
+**🎯 Performance-optimized for handling thousands of redirects per second.**
+
+[Live Demo](https://url-shortener-api-u6xq.onrender.com/) | [View Repository](https://github.com/aklilumengesha/URL-Shortener-API)
 
 ---
 
-### 7️⃣ [RestoNext - Restaurant Management](https://github.com/aklilumengesha/restaurant-ordering) 🍽️ **Full-Featured**
+### 6️⃣ [RestoNext Restaurant Platform](https://github.com/aklilumengesha/restaurant-ordering) 🍔 **Complete Solution**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-Modern restaurant management platform handling online orders, table reservations, staff operations, and payments.
+A modern restaurant management platform designed to handle everything from online orders and table reservations to staff operations and analytics.
 
 **✨ Key Features:**
-- 🍕 Online ordering system
+- 🛒 Online ordering system
 - 📅 Table reservation management
 - 👨‍🍳 Staff operations dashboard
 - 💳 Payment integration
-- 📊 Analytics & reporting
+- 📊 Analytics and reporting
+- 📱 Responsive design
 
-[Live Demo →](https://restaurant-ordering-five.vercel.app/) | [View Repository →](https://github.com/aklilumengesha/restaurant-ordering)
+[Live Demo](https://restaurant-ordering-five.vercel.app/) | [View Repository](https://github.com/aklilumengesha/restaurant-ordering)
 
 ---
 
-### 8️⃣ [Eshop - E-commerce Platform](https://github.com/aklilumengesha/Eshop-ecommerce-website) 🛒 **Complete Store**
+### 7️⃣ [CareerCraft AI](https://github.com/aklilumengesha/careercraft-ai) 💼 **Career Assistant**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+
+Your intelligent career coach. Build resumes, generate cover letters, practice interviews, and get industry insights powered by AI.
+
+**✨ Key Features:**
+- 📄 AI-powered resume builder
+- ✍️ Cover letter generator
+- 🎤 Interview practice simulator
+- 📊 Industry insights
+- 🔐 Secure authentication with Clerk
+
+[Live Demo](https://careercraft-ai-ruddy.vercel.app/) | [View Repository](https://github.com/aklilumengesha/careercraft-ai)
+
+---
+
+### 8️⃣ [Eshop E-commerce](https://github.com/aklilumengesha/Eshop-ecommerce-website) 🛍️ **Full E-commerce**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-Modern e-commerce store with email verification, OAuth login, and comprehensive admin panel.
+Modern e-commerce store with comprehensive features for both customers and administrators.
 
 **✨ Key Features:**
-- 🔐 Email verification & OAuth login
-- ⭐ Product reviews & ratings
-- 💝 Wishlist functionality
+- 📧 Email verification system
+- 🔑 OAuth login (Google, GitHub)
+- ⭐ Product reviews and ratings
+- ❤️ Wishlist functionality
 - 🎟️ Coupon system
-- 📧 Newsletter integration
+- 📰 Newsletter integration
 - 📊 Real-time stock updates
-- 🎛️ Comprehensive admin panel
+- 🛠️ Comprehensive admin panel
 
-[Live Demo →](https://eshop-ecommerce-website-ten.vercel.app/) | [View Repository →](https://github.com/aklilumengesha/Eshop-ecommerce-website)
-
----
-
-### More Projects
-
-- 🏨 **[Laravel Hotel Booking](https://github.com/aklilumengesha/Laravel-Hotel-Booking)** - Full-featured hotel booking system
-- 💼 **[Mini LinkedIn](https://github.com/aklilumengesha/mini-linkedin)** - Professional networking platform
-- 🎨 **[AI Chat Landing Page](https://github.com/aklilumengesha/MindFlow)** - Stunning parallax landing page
-- 🤖 **[CareerCraft AI](https://github.com/aklilumengesha/careercraft-ai)** - AI career coach platform
-
-[View All Projects →](https://aklilu-mengesha-portfolio-vv1k.vercel.app/projects)
-
-### 1️⃣ [Job Board API](https://github.com/aklilumengesha/job-board-api) ⭐ **Production-Ready**
-
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-A comprehensive RESTful API for a job board platform with advanced features.
-
-**✨ Key Features:**
-- 🔐 JWT authentication with refresh tokens
-- 👥 Role-based authorization (Job Seeker, Employer, Admin)
-- 📝 Complete job posting & application workflow
-- 🔍 Advanced search with 8+ filters
-- 📧 Email notifications with BullMQ queue
-- 💾 Redis caching for performance
-- 📊 Swagger API documentation
-- ✅ **37/37 E2E tests passing**
-
-**🏗️ Architecture:**
-- Clean Architecture (4 layers)
-- Prisma ORM for type-safe database access
-- File storage (Local/AWS S3)
-- Email service (SendGrid/SMTP)
-
-**📈 Impact:**
-- Production-ready API with 65+ endpoints
-- Handles authentication, jobs, applications, companies
-- Comprehensive test coverage
-
-[View Repository →](https://github.com/aklilumengesha/job-board-api)
+[Live Demo](https://eshop-ecommerce-website-ten.vercel.app/) | [View Repository](https://github.com/aklilumengesha/Eshop-ecommerce-website)
 
 ---
 
-### 2️⃣ [CareerPilot - Job Discovery Platform](https://github.com/yourusername/career-pilot) 🎨 **UI/UX Excellence**
+### 9️⃣ [Laravel Hotel Booking](https://github.com/aklilumengesha/Laravel-Hotel-Booking) 🏨 **Backend-Focused**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-Modern job discovery platform with beautiful UI and interactive features.
+A full-featured hotel booking system with room management, reservation handling, and payment integration.
 
 **✨ Key Features:**
-- 🎯 Smart job search with live filtering
-- 🔖 Bookmark/save jobs functionality
-- 📊 Market signals & insights dashboard
-- ⚡ Animated statistics and scroll effects
-- 📱 Fully responsive design
-- 🏢 Company showcase marquee
+- 🏨 Room management and availability
+- 📅 Booking and reservation system
+- 💳 Payment integration
+- 📊 Admin dashboard
+- 📧 Email notifications
+- 🐳 Docker containerization
 
-**🎨 Design Highlights:**
-- Clean, conversion-optimized UI
-- Intersection Observer animations
-- Professional landing page
-- Mobile-first approach
-
-**💡 Perfect Pair:**
-- Frontend for Job Board API
-- Ready for backend integration
-
-[View Repository →](#)
+[Live Demo](https://laravel-hotel-booking-1tef.onrender.com/) | [View Repository](https://github.com/aklilumengesha/Laravel-Hotel-Booking)
 
 ---
 
-### 3️⃣ [NexChat - Real-Time Chat Application](https://github.com/yourusername/nexchat) 💬 **Full-Stack**
+### 🔟 [Mini LinkedIn](https://github.com/aklilumengesha/mini-linkedin) 🤝 **Social Platform**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-Full-stack real-time chat application with WebSocket integration.
-
-**✨ Key Features:**
-- 💬 Real-time messaging with Socket.io
-- 🔐 JWT authentication
-- 👤 User profiles and status
-- 🏠 Chat rooms/channels
-- 📱 Responsive UI with Tailwind CSS
-
-**🔧 Technical Stack:**
-- Backend: NestJS + WebSocket Gateway
-- Frontend: Next.js 14 + React
-- Database: PostgreSQL + Prisma
-- Real-time: Socket.io
-
-[View Repository →](#)
-
----
-
-### 4️⃣ [Portfolio Website](https://github.com/yourusername/portfolio) 🌟 **Personal Brand**
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-Professional portfolio showcasing projects, skills, and experience.
+A professional networking platform built with Next.js, Express, MongoDB, and Firebase. Connect, share, and grow your career.
 
 **✨ Key Features:**
-- 🎨 Modern, animated UI
-- 📱 Fully responsive design
-- 🚀 Performance optimized
-- 📊 Project showcase
-- 📝 Blog integration ready
+- 👤 User profiles and connections
+- 📝 Post creation and sharing
+- 💬 Comments and interactions
+- 🔍 User search functionality
+- 🔐 Firebase authentication
+- 📱 Responsive design
 
-[View Live Site →](#) | [View Repository →](#)
+[Live Demo](https://mini-linkedin-cpco.vercel.app/) | [View Repository](https://github.com/aklilumengesha/mini-linkedin)
 
 ---
 
@@ -310,13 +294,18 @@ Professional portfolio showcasing projects, skills, and experience.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -324,6 +313,13 @@ Professional portfolio showcasing projects, skills, and experience.
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### AI & Cloud Services
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
@@ -341,12 +337,35 @@ Professional portfolio showcasing projects, skills, and experience.
 
 ---
 
+## 💼 Work Experience
+
+### Full Stack Developer • **Barok Tech** (Jul 2025 - Oct 2025)
+Built responsive web applications using Next.js, Tailwind CSS, Node.js, and Laravel. Designed and optimized database schemas with PostgreSQL and MySQL. Integrated third-party APIs, implemented authentication systems, and used Docker for deployment.
+
+### Full-Stack Developer • **Abyssinia Tech** (Nov 2024 - Mar 2025)
+Developed a full-stack learning management system with Next.js and Node.js. Features include role-based authentication, secure REST APIs, real-time notifications, and clean architecture implementation.
+
+### Backend Developer (Node.js) • **Horizon Technologies** (Nov 2024 - Mar 2025)
+Worked on an educational platform providing free online courses. Built scalable backend services with Node.js and TypeScript, designed REST APIs, and optimized PostgreSQL database queries.
+
+---
+
+## 🎓 Certifications
+
+- 🏆 **Programming Fundamentals Nanodegree** - Udacity (Dec 2025)
+- 🤖 **Artificial Intelligence Fundamentals** - Udacity (Dec 2025)
+- 📱 **Android Developer Fundamentals** - Udacity (Dec 2025)
+- 📊 **Data Analysis Fundamentals** - Udacity (Feb 2026)
+
+---
+
 ## 🎯 What I Bring to Your Team
 
-✅ **Full-Stack Expertise** - Proficient in both frontend (React/Next.js) and backend (Node.js/NestJS)  
+✅ **Full-Stack Expertise** - Proficient in React/Next.js (frontend) and Node.js/NestJS/Laravel (backend)  
+✅ **AI Integration** - Experience with Google Gemini AI and modern AI services  
 ✅ **Clean Architecture** - Write maintainable, scalable, and testable code  
-✅ **Production Experience** - Built and deployed production-ready applications  
-✅ **Problem Solver** - Strong analytical skills and attention to detail  
+✅ **Production Experience** - Built 11+ production-ready applications  
+✅ **Problem Solver** - Strong analytical skills with attention to detail  
 ✅ **Fast Learner** - Quick to adapt to new technologies and frameworks  
 ✅ **Team Player** - Excellent communication and collaboration skills  
 ✅ **Quality Focus** - Comprehensive testing and documentation practices
@@ -357,36 +376,33 @@ Professional portfolio showcasing projects, skills, and experience.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aklilu-mengesha-portfolio-vv1k.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aklilu-mengesha-160773311/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aklilumengesha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshaaamjad8190@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017be7d7ff871799ea)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aklilumengesha57@gmail.com)
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
 
-### 💡 Open to Remote Opportunities
+### 💡 Open to Full-time & Freelance Opportunities
 
-I'm actively seeking full-time or contract positions as a **Full-Stack Developer**.  
-Interested in working together? Let's connect!
+I'm actively seeking positions as a **Full-Stack Developer**.  
+Let's build something amazing together!
 
-**📧 ayeshaaamjad8190@gmail.com**
+**📧 aklilumengesha57@gmail.com**
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aklilumengesha&color=blue&style=flat-square)
 
 **⭐ If you like my work, consider giving my projects a star!**
+
+---
+
+*"I started coding out of curiosity and turned it into a craft — building real products that solve real problems."*
 
 </div>
