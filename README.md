@@ -337,28 +337,6 @@ A professional networking platform built with Next.js, Express, MongoDB, and Fir
 
 ---
 
-## 💼 Work Experience
-
-### Full Stack Developer • **Barok Tech** (Jul 2025 - Oct 2025)
-Built responsive web applications using Next.js, Tailwind CSS, Node.js, and Laravel. Designed and optimized database schemas with PostgreSQL and MySQL. Integrated third-party APIs, implemented authentication systems, and used Docker for deployment.
-
-### Full-Stack Developer • **Abyssinia Tech** (Nov 2024 - Mar 2025)
-Developed a full-stack learning management system with Next.js and Node.js. Features include role-based authentication, secure REST APIs, real-time notifications, and clean architecture implementation.
-
-### Backend Developer (Node.js) • **Horizon Technologies** (Nov 2024 - Mar 2025)
-Worked on an educational platform providing free online courses. Built scalable backend services with Node.js and TypeScript, designed REST APIs, and optimized PostgreSQL database queries.
-
----
-
-## 🎓 Certifications
-
-- 🏆 **Programming Fundamentals Nanodegree** - Udacity (Dec 2025)
-- 🤖 **Artificial Intelligence Fundamentals** - Udacity (Dec 2025)
-- 📱 **Android Developer Fundamentals** - Udacity (Dec 2025)
-- 📊 **Data Analysis Fundamentals** - Udacity (Feb 2026)
-
----
-
 ## 🎯 What I Bring to Your Team
 
 ✅ **Full-Stack Expertise** - Proficient in React/Next.js (frontend) and Node.js/NestJS/Laravel (backend)  
